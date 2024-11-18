@@ -77,6 +77,3 @@ pip install -r requirements.txt
 - Puedes extender esta arquitectura añadiendo más modelos, servicios o vistas según sea necesario, manteniendo siempre la modularidad y claridad del código.
 
 ¡Gracias por revisar este proyecto! Si tienes alguna pregunta o sugerencia, no dudes en contribuir o abrir un problema.
-```
-
-Este README describe claramente la arquitectura modular y proporciona información útil para comenzar a trabajar en el proyecto. Puedes personalizarlo aún más según las necesidades específicas de tu aplicación.
